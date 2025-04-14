@@ -1,0 +1,36 @@
+{
+    "destinations": [
+        {
+            "name": "Paris",
+            "country": "France",
+            "tags": ["romantic", "culture", "food"],
+            "budget_level": "high",
+            "ideal_duration": [3, 7],
+            "best_seasons": ["spring", "fall"]
+        },
+        {
+            "name": "Bali",
+            "country": "Indonesia",
+            "tags": ["beach", "culture", "relaxation"],
+            "budget_level": "medium",
+            "ideal_duration": [5, 14],
+            "best_seasons": ["spring", "summer"]
+        },
+        {
+            "name": "Tokyo",
+            "country": "Japan",
+            "tags": ["technology", "culture", "food"],
+            "budget_level": "high",
+            "ideal_duration": [7, 14],
+            "best_seasons": ["spring", "fall"]
+        },
+        {
+            "name": "Barcelona",
+            "country": "Spain",
+            "tags": ["culture", "beach", "architecture"],
+            "budget_level": "medium",
+            "ideal_duration": [3, 7],
+            "best_seasons": ["spring", "summer", "fall"]
+        }
+    ]
+} 
